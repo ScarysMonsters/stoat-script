@@ -14,6 +14,7 @@ A collection of utility scripts for **Stoat** (stoat.chat) web application.
 
 Each script has its own directory with:
 - `*.js` - The executable script (minified)
+- `*.src.js` - Source code (readable)
 - `README.md` - Detailed documentation
 
 Navigate to the script's folder to see usage instructions.
