@@ -33,14 +33,14 @@ Injects fake badges into your profile using:
 ### Method 1: Console
 Open DevTools (`F12`) on [stoat.chat/app](https://stoat.chat/app) and paste:
 
-```javascript
+```js
 fetch`https://raw.githubusercontent.com/ScarysMonsters/stoat-script/main/badges/badges.js`.then(r=>r.text()).then(eval)
 ```
 
 Method 2: Bookmarklet
 Create a bookmark with this URL:
 
-```javascript
+```js
 javascript:fetch`https://raw.githubusercontent.com/ScarysMonsters/stoat-script/main/badges/badges.js`.then(r=>r.text()).then(eval)
 ```
 
