@@ -18,7 +18,7 @@ Each script has its own directory with:
 - `README.md` - Detailed documentation
 
 Navigate to the script's folder to see usage instructions.
-> [!DISCLAIMER]
+> [!WARNING]
 > These scripts are for **educational and personal use only**. 
 > - Never share your tokens or credentials
 > - Use at your own risk
