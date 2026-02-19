@@ -40,7 +40,7 @@ fetch`https://raw.githubusercontent.com/ScarysMonsters/stoat-script/main/badges/
 Method 2: Bookmarklet
 Create a bookmark with this URL:
 
-```
+```javascript
 javascript:fetch`https://raw.githubusercontent.com/ScarysMonsters/stoat-script/main/badges/badges.js`.then(r=>r.text()).then(eval)
 ```
 
