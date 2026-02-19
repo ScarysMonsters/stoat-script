@@ -18,8 +18,7 @@
    const ALL_BADGES_VALUE = Object.values(BADGES).reduce((a, b) => a + b, 0);
    
    console.log('%cStoat All Badges Spoofer', 'font-size: 20px; font-weight: bold; color: #ff4655;');
-   console.log('%cBased on revolt-database analysis (Rust backend)', 'font-size: 12px; color: #72767d;');
-   
+
    function spoofViaClient() {
        const client = window.__STOAT_CLIENT__ || window.__REVOLT_CLIENT__ || window.__CLIENT__;
        
