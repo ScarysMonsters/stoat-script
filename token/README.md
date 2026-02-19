@@ -32,9 +32,8 @@ You now have your token in the clipboard!
 
 Token is automatically copied to clipboard.
 
-## ⚠️ Security Warning
-
-Your token grants full account access. **Never share it.**
+> [!WARNING]
+> Your token grants full account access. **Never share it.**
 
 ## Files
 
