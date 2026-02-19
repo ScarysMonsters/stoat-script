@@ -65,9 +65,7 @@ stoatBadgesSpoofer.setCustom(255) // Set custom bitfield
 > - Client-side only — Only you see these badges
 > - Not persistent server-side — Refresh clears spoof (unless using localStorage restore)
 > - Visual glitch possible — Badges may flicker on page updates
-> - No ban risk — Does not modify server data
-
-Files
+> - No ban risk
 
 - `badges.js` — Minified script
 - `badges.src.js` — Source code (readable)
