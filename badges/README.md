@@ -61,12 +61,11 @@ stoatBadgesSpoofer.getBadges()    // List all badge values
 stoatBadgesSpoofer.setCustom(255) // Set custom bitfield
 ```
 
-⚠️ Disclaimer
-
-- Client-side only — Only you see these badges
-- Not persistent server-side — Refresh clears spoof (unless using localStorage restore)
-- Visual glitch possible — Badges may flicker on page updates
-- No ban risk — Does not modify server data
+> [!WARNING]
+> - Client-side only — Only you see these badges
+> - Not persistent server-side — Refresh clears spoof (unless using localStorage restore)
+> - Visual glitch possible — Badges may flicker on page updates
+> - No ban risk — Does not modify server data
 
 Files
 
