@@ -32,6 +32,10 @@ Feel free to add new scripts by creating a new folder with:
 2. `README.md` - Documentation
 3. Update this main README with the new entry
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ScarysMonsters/stoat-script&type=Date)](https://star-history.com/#ScarysMonsters/stoat-script&Date)
+
 ## 📄 License
 
 [MIT](./LICENSE)
