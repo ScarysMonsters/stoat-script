@@ -34,7 +34,7 @@ Feel free to add new scripts by creating a new folder with:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ScarysMonsters/stoat-script&type=Date)](https://star-history.com/#ScarysMonsters/stoat-script&Date)
+![Star History Chart](https://api.star-history.com/svg?repos=ScarysMonsters/stoat-script&type=Date)
 
 ## 📄 License
 
